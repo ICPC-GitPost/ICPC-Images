@@ -1,11 +1,8 @@
-# ICPC-Images
-| ICPC Sponsors | Images |
-| :--- | ----- |
-| **Jane Street** | ![Jane Street Logo](https://logowik.com/content/uploads/images/jane-street-capital-logo-vector38451.logowik.com.webp) |
-| **JetBrains** | ![JetBrains Logo](https://logowik.com/content/uploads/images/jetbrains-new-2024-logo-vector71206.logowik.com.webp) |
-| **Huawei** | ![Huawei Logo](https://logos-world.net/wp-content/uploads/2020/09/Huawei-Logo.png) |
-| **Jump Trading** | ![Jump Trading Logo](https://seeklogo.com/images/J/jump-trading-logo-443796.png) |
-| **Wincent** | ![Wincent Logo](https://www.tradinginterview.com/wp-content/uploads/2021/06/wincent-logo.png) |
-| **Pinely** | ![Pinely Logo](https://codeforces.org/pinely-logo.png) |
-| **Citadel** | ![Citadel Logo](https://logowik.com/content/uploads/images/citadel-llc-logo-vector37337.logowik.com.webp) |
-| **Hudson River Trading (HRT)** | ![HRT Logo](https://imgbin.com/png/GjE1x9ga/hudson-river-trading-logo-organization-brand-png.png) |
+# ICPC Sponsors
+
+<div style="background-color:#0D1117; padding:20px; border-radius:10px;">
+  
+| **Jane Street** | **JetBrains** | **Huawei** | **Jump Trading** | **Wincent** | **Pinely** | **Citadel** | **Hudson River Trading (HRT)** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <a href="https://www.janestreet.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/Jane S.png" alt="Jane Street" width="150"/></a> | <a href="https://www.jetbrains.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/Jet Brains.png" alt="JetBrains" width="150"/></a> | <a href="https://www.huawei.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/HUAWEI.png" alt="Huawei" width="150"/></a> | <a href="https://www.jumptrading.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/Jump Trade.png" alt="Jump Trading" width="150"/></a> | <a href="https://www.wincent.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/WINCENT.png" alt="Wincent" width="150"/></a> | <a href="https://pinely.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/Pinely.png" alt="Pinely" width="150"/></a> | <a href="https://www.citadel.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/CITADEL.png" alt="Citadel Securities" width="150"/></a> | <a href="https://www.hudsonrivertrading.com/" target="_blank"><img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/HRT.png" alt="HRT" width="150"/></a> |
+</div>
